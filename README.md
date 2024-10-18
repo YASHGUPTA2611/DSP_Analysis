@@ -10,4 +10,4 @@ Libraries Used -> Numpy, Pandas, Matplotlib, Scipy
 - This file offers a thorough understanding of various filters in the frequency domain, delving into their practical applications for optimizing signal processing in financial markets.
 - It also provides valuable insights into capturing and analyzing market cycles, empowering you to better anticipate price movements and trends.
 
-#### The concept of DSP is inspired by John F. Ehlers book -> [https://onlinelibrary.wiley.com/doi/book/10.1002/9781118728611](https://www.amazon.in/Cycle-Analytics-Traders-Technical-Downloadable/dp/1118728513)
+#### The concept of DSP is inspired by John F. Ehlers book -> [Book Link](https://www.amazon.in/Cycle-Analytics-Traders-Technical-Downloadable/dp/1118728513)
